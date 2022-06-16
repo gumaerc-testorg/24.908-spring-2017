@@ -1,5 +1,7 @@
 ---
 content_type: video_gallery
+description: This page presents video of an exemplary class session, showing the class
+  instruction, student discussion. and an example of a student presentation.
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: CourseSection
